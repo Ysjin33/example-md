@@ -1,0 +1,6 @@
+[book]
+authors = ["YunSoo Jin"]
+language = "en"
+multilingual = false
+src = "src"
+title = "example-mdbook"
